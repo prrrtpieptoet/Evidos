@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Evidos.EventSourcing.EventHandling.Abstractions;
+using Evidos.EventSourcing.EventHandling.Services.Abstractions;
 using Evidos.EventSourcing.Query.Abstractions;
 using Evidos.EventSourcing.Query.Entities;
 

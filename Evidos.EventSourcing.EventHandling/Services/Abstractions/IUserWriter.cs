@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Evidos.EventSourcing.EventHandling.Abstractions
+namespace Evidos.EventSourcing.EventHandling.Services.Abstractions
 {    
     public interface IUserWriter
     {

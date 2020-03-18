@@ -5,7 +5,8 @@ using Evidos.EventSourcing.Domain.Core.Abstractions;
 using Evidos.EventSourcing.Domain.Core.User;
 using Evidos.EventSourcing.Domain.PubSub.Abstractions;
 using Evidos.EventSourcing.Domain.Storage.Abstractions;
-using Evidos.EventSourcing.EventHandling.Abstractions;
+using Evidos.EventSourcing.EventHandling.Handlers.Abstractions;
+using Evidos.EventSourcing.EventHandling.Services.Abstractions;
 
 namespace Evidos.EventSourcing.EventHandling.Services
 {

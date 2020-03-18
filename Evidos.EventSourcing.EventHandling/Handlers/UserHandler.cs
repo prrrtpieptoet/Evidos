@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Evidos.EventSourcing.Domain.Core.User;
-using Evidos.EventSourcing.EventHandling.Abstractions;
+using Evidos.EventSourcing.EventHandling.Handlers.Abstractions;
 using Evidos.EventSourcing.Query.Abstractions;
 using User = Evidos.EventSourcing.Query.Entities.User;
 

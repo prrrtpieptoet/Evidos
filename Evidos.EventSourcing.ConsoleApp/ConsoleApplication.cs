@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Mail;
-using Evidos.EventSourcing.EventHandling.Abstractions;
 using System.Threading;
+using Evidos.EventSourcing.EventHandling.Services.Abstractions;
 
 namespace Evidos.EventSourcing.ConsoleApp
 {

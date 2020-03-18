@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Evidos.EventSourcing.Query.Entities;
 
-namespace Evidos.EventSourcing.EventHandling.Abstractions
+namespace Evidos.EventSourcing.EventHandling.Services.Abstractions
 {
     public interface IUserReader
     {

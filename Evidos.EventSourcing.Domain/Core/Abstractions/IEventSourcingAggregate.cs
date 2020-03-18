@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using Evidos.EventSourcing.Domain.Core.Abstractions;
 
-namespace Evidos.EventSourcing.Domain.Storage.EventStore.Abstractions
+namespace Evidos.EventSourcing.Domain.Core.Abstractions
 {
     internal interface IEventSourcingAggregate
     {
